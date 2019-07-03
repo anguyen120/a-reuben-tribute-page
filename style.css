@@ -1,0 +1,63 @@
+.blockquote {
+  font-family: Open Sans, Roboto;
+  background: #ffffff;
+  text-align: left;
+  font-weight: light;
+  font-size: 22px;
+  margin: 20px 293px 20px 293px;
+  padding: 5px 15px 5px 15px;
+  color: black; 
+  border-left: 8px solid #FCD7DE;
+} 
+  h1 {
+    margin: auto;
+    text-align: center;
+    letter-spacing: 30px;
+    font-weight: bold;
+    font-size: 128px;
+    color: white; 
+    font-family: Roboto, Open Sans;
+  }
+  h2 {
+    margin: auto;
+    letter-spacing: -3px;
+    font-weight: light;
+    font-size: 36px;
+    color: white; 
+    font-family: Open Sans, Roboto;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 25px;
+  }
+  .img-frame-cap {
+    margin: auto;
+    width : 1318px;
+    background: #ffffff;
+    padding: 18px 18px 2px 18px;
+    border: 1px solid #999999;
+  }
+   .caption {
+      font-family: Open Sans, Roboto;
+      text-align: center;
+      margin-top: 4px;
+      margin-bottom: 4px;
+      font-size: 18px; 
+  }
+  p{
+    font-style: italic;
+  }
+  .body {
+     font-family: Open Sans, Roboto;
+    background: #ffffff;
+    text-align: left;
+    font-weight: light;
+    margin: 20px 293px 20px 293px;
+    color: black;
+    padding: 5px 15px 5px 15px;
+    font-size: 22px;
+  }
+
+.footer {
+  text-align: center;
+  color: white;
+}
